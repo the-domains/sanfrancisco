@@ -1,0 +1,14 @@
+layout_spectrum: 0.9566874764859676
+typography_spectrum: 0.04941445612348616
+color:
+  brandStrength: 0.08870752737857401
+  lightness: 0.2627202863804996
+  saturation: 0.6959996018558741
+  rhythmicContrast: 0.936874380800873
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Sanfrancisco
